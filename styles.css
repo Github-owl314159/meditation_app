@@ -30,6 +30,7 @@
   position: absolute;
   height: 50%;
   pointer-events: none;
+  transform: rotate(-90deg);
 }
 
 .vid-container {
